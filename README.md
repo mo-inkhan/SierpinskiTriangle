@@ -1,4 +1,4 @@
-Lorenz Attractor Visualizer
+Sierpinski Triangle
 =======
 
 Author: **[Moin Khan](https://github.com/mo-inkhan)**
