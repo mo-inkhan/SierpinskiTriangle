@@ -1,0 +1,22 @@
+.footer {
+    margin-bottom: 20px;
+}
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.canvas {
+    border: 4px dashed black;
+    padding: 110px;
+    padding-bottom: 0px;
+}
+.footer {
+    margin-top: 20px;
+}
+.footer button {
+    width: 100px;
+}
